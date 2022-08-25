@@ -1,9 +1,6 @@
 const linksSocialMedia = {
     github: "victoriacardosos",
-    youtube: "Dsoulificial",
-    facebook: "DenilsonBernardo",
     instagram: "vcardsj",
-    twitter: ""
   }
   
   function changeSocialMediaLinks() {
